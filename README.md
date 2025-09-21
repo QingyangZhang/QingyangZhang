@@ -1,8 +1,8 @@
-# Hi 🤗
+# Hi
 
-I am Qingyang Zhang, first-year PhD student @ Tianjin University.
+I am Qingyang Zhang, second-year PhD student @ Tianjin University.
 
-I am now at an research internship at Shanghai AI Lab, focusing on LLM Reasoning.
+I am now at an research internship at Shanghai AI Lab, focusing on Large Reasoning Models.
 
 Previously, I had a wonderful time at Tencent AI lab.
 
